@@ -1,4 +1,4 @@
-# adaptive-reading-tool
+# NeatNote, an adaptive-reading-tool for a better reading experience
 An adaptive reading tool designed to enhance reading and understanding for students with ADHD, featuring interactive summaries, NLP-driven comprehension support, customizable text complexity, engaging gamification, and text-to-speech capabilities 
 
 
@@ -57,3 +57,16 @@ Convert text into a 'bionic' format, which emphasizes the most important parts o
 
 - User-Friendly Interface: 
 Designed with a focus on simplicity and ease of use, ensuring accessibility and comfort for all users.
+
+
+# Motivation
+NeatNote was born out of my own experiences with the mental gymnastics often required to engage in reading, a challenge I share with many neurodivergent individuals. Dealing with long texts often feels like an uphill battle, not because of a lack of interest, but due to the intrinsic difficulties in maintaining focus that are characteristic of ADHD. My mind would easily wander, or I'd find myself overwhelmed by the volume of words, quickly losing the thread of what I was reading. This challenge extends beyond my academic endeavors, permeating all aspects of my reading experiences.
+
+For individuals with ADHD, the act of reading can involve a constant mental juggling act. It's about trying to anchor wandering thoughts, filtering out a barrage of distractions, and processing text in a way that the brain finds manageable. NeatNote aims to address these challenges head-on.
+
+It's more than a tool to improve reading skills. NeatNote is an initiative to reshape reading into a positive, accessible experience. It's about recognizing and catering to the diverse ways our brains work and creating an environment that supports different learning styles. This project is a step towards a more inclusive and understanding approach to reading and learning.
+
+
+
+
+

@@ -3,11 +3,11 @@ An adaptive reading tool designed to enhance reading and understanding for stude
 
 
 # Purpose
-The primary purpose of the Adaptive Reading Tool project is to create a specialized digital solution that addresses the unique reading challenges faced by students with ADHD. This tool aims to transform the reading experience for these students, making it more engaging, manageable, and effective. By leveraging technology and educational strategies tailored for ADHD learners, the project seeks to improve attention, comprehension, and retention of information during the reading process.
+The primary purpose of NeatNote is to create a specialized digital solution that addresses the unique reading challenges faced by students with ADHD. This tool aims to transform the reading experience for these students, making it more engaging, manageable, and effective. By leveraging technology and educational strategies tailored for ADHD learners, the project seeks to improve attention, comprehension, and retention of information during the reading process.
 
 
 # Intended Audience
-The Adaptive Reading Tool is designed for a diverse range of users who seek to enhance their reading experience and comprehension, particularly those facing challenges with attention and focus. This includes:
+NeatNote is designed for a diverse range of users who seek to enhance their reading experience and comprehension, particularly those facing challenges with attention and focus. This includes:
 
 - Individuals with Attention Difficulties: 
 Primarily aimed at individuals who struggle with attention-related challenges, such as ADHD, making it easier for them to engage with and comprehend lengthy texts.

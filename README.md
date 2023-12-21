@@ -28,3 +28,32 @@ Corporate and Professional Trainers:
 Useful for corporate trainers and professionals who need to present information in an accessible and engaging manner, catering to employees with diverse learning preferences.
 
 By catering to a wide array of users, this tool aims to bridge the gap in conventional reading methods, offering a more inclusive and adaptable approach to reading and learning.
+
+# Core Features
+
+Interactive Summaries: 
+Generates concise, interactive summaries of extensive texts, allowing users to quickly grasp key points and navigate through complex information with ease.
+
+Detail Expansion: 
+Offers the capability to expand on specific summary points, providing deeper insights and more detailed explanations as needed.
+
+Visual Aids: 
+Incorporates mind maps and infographics to support visual learners, enhancing understanding and retention of information through graphical representations.
+
+Natural Language Processing (NLP): 
+Utilizes NLP for real-time reading comprehension support, sentence rephrasing in simpler language, and personalized explanations for complex concepts.
+
+Adaptive Text Complexity: 
+Dynamically adjusts the complexity of text based on user interaction and comprehension levels, making reading more accessible and less intimidating.
+
+Engagement and Gamification: 
+Includes interactive quizzes and gamification elements to make reading more engaging and rewarding, fostering motivation and a positive learning experience.
+
+Text-to-Speech Functionality: 
+Features an engaging text-to-speech option with customizable reading speeds and word highlighting, aiding focus and understanding.
+
+Bionic Reading Conversion: 
+The tool can convert text into a 'bionic' format, which emphasizes the most important parts of words (e.g., the first few letters) to facilitate faster reading and better comprehension. This is particularly helpful as it aligns with the natural reading process of the human brain, enabling users, especially those with attention difficulties, to focus on key parts of the text and reduce cognitive overload.
+
+User-Friendly Interface: 
+Designed with a focus on simplicity and ease of use, ensuring accessibility and comfort for all users.

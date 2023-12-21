@@ -9,7 +9,7 @@ The primary purpose of the Adaptive Reading Tool project is to create a speciali
 # Intended Audience
 The Adaptive Reading Tool is designed for a diverse range of users who seek to enhance their reading experience and comprehension, particularly those facing challenges with attention and focus. This includes:
 
-Individuals with Attention Difficulties: 
+**Individuals with Attention Difficulties: **
 Primarily aimed at individuals who struggle with attention-related challenges, such as ADHD, making it easier for them to engage with and comprehend lengthy texts.
 
 Educators and Tutors: 
